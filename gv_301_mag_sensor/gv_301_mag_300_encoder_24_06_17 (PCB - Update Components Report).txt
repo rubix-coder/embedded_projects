@@ -1,0 +1,172 @@
+Update Components Report
+------------------------
+
+Report Written:     Saturday, June 24, 2017
+Project Path:       C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_mag_sensor\gv_301_mag_300_encoder.prj
+Design Path:        C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_mag_sensor\gv_301_mag_300_encoder_24_06_17.pcb
+Design Title:       
+Created:            24-06-2017 11:53:32
+Last Saved:         24-06-2017 14:15:12
+Editing Time:       143 min
+Units:              mm (precision 3)
+
+
+Library Files:
+==============
+
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\User_jagrut\User.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\User\User.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\Default\DesignSpark.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\Default\ltspice.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\Default\XSpice.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\3m.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\74hc.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\74hct.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\74ls.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\4000.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\actel.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\ad.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\adsp.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\altera.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\alteracyclone.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\amp.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\atmel.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\atmel8051.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\atmelarm.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\atmelatsam7.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\atmelavr.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\avx.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\capacitor.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\coldfire.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\connector.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\csm.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\cypress.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\diode.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\discrete.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\dsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\fairchild.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\fairchild1.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\fairchildacex.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\fci.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\fuse.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\hamlin.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\hybrid.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\infineontc116x.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\intel8051.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\ir.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\lattice.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\lt.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\ltspice.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\luminarycortex.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\maxim.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\maxim8051.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\maximmp.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\mc68hc.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\microchip.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\microchippic.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\molex.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\msp430.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\murata.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\natsemi.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\nxp-lpc32x0.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\omron.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\onsemi.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\opamps.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\pcb.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\philips80c51.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\philipsarm.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\philipsp89.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\philipsxa.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\picaxe.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\powerpc.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\qbsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\qcsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\qsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\quicklogic.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\relay.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\renesasr8c.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\resistor.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\rfmicro.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\schema.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\sm.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\sonycx.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\st-arm7.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\st.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\testpoint.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\ti.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\tms320.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\tms470.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\toshibatmp86.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\trans.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\transistor.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\vishay.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\xilinx.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\XSpice.cml
+C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\zilog.cml
+
+Selected items to be updated:
+=============================
+
+
+Components:
+===========
+
+    (None) 
+
+Symbols:
+========
+
+    (None) 
+
+Additional items to be updated:
+===============================
+
+
+Components:
+===========
+
+    (None) 
+
+Symbols:
+========
+
+    (None) 
+
+Selected items not to be updated  (Same version as library)
+===========================================================
+
+
+Components:
+===========
+
+MA300GQ-Z (QFN50P300X300X80-17N)
+
+Symbols:
+========
+
+QFN50P300X300X80-17N C:\Users\Public\Documents\DesignSpark PCB 8.0\Library\User_jagrut\User.psl
+
+
+
+Update Components Summary
+=========================
+
+Updating all components.
+Update component values
+Update component value positions
+(Remove pad style exceptions on updated components)
+
+	Selected for update:			   1  Component 
+						   1  Symbol 
+
+	Selected items to be updated:		   0  Components
+						   0  Symbols
+
+	Additional items to be updated:		   0  Components
+						   0  Symbols
+
+	Selected items NOT to be updated:	   1  Component 
+	  (Same version as library)		   1  Symbol 
+
+
+End Of Report.

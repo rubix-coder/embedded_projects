@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Saturday, June 24, 2017
+Design Path:        C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_mag_sensor\gv_301_mag_300_encoder_24_06_17.pcb
+Design Title:       
+Created:            24-06-2017 15:22:35
+Last Saved:         24-06-2017 15:23:11
+Editing Time:       0 min
+Units:              mm (precision 3)
+
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Power" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Ground" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

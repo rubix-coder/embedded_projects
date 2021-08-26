@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Monday, June 26, 2017
+Project Path:       C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_mag_sensor\gv_301_mag_300_encoder.prj
+Design Path:        C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_mag_sensor\gv_301_mag_300_encoder_24_06_17.pcb
+Design Title:       
+Created:            24-06-2017 15:22:35
+Last Saved:         26-06-2017 16:00:06
+Editing Time:       376 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic "C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_mag_sensor\gv_301_mag_300_encoder.prj" with PCB "C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_mag_sensor\gv_301_mag_300_encoder_24_06_17.pcb"
+=======================================================================================================================================================================================================================================================================================================
+
+
+End Of Report.

@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Thursday, June 29, 2017
+Project Path:       C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_hall_sensor_test\gv_301_hall_sensor_test.prj
+Design Path:        C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_hall_sensor_test\gv_301_hall_sensor_test.pcb
+Design Title:       
+Created:            29-06-2017 14:03:58
+Last Saved:         29-06-2017 17:18:05
+Editing Time:       194 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic "C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_hall_sensor_test\gv_301_hall_sensor_test.sch" with PCB "C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_hall_sensor_test\gv_301_hall_sensor_test.pcb"
+============================================================================================================================================================================================================================================================================================================
+
+
+End Of Report.

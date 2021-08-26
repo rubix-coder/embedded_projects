@@ -1,0 +1,66 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Thursday, June 22, 2017
+Design Path:        C:\Users\Jesal\Dropbox (Work)\Work Team Folder\GREEN_VOLT\jesal_work_folder\gv_301_mag_sensor\gv_301_mag_300_encoder.pcb
+Design Title:       
+Created:            22-06-2017 15:54:17
+Last Saved:         22-06-2017 15:55:52
+Editing Time:       27 min
+Units:              thou (precision 0)
+
+Added net class "Signal".
+Added net class "Power".
+Added net class "Ground".
+
+Added net "GND".
+Added net "VDD".
+Added net "V_FLASH".
+Added net "A".
+Added net "B".
+Added net "Z".
+Added net "U".
+Added net "V".
+Added net "W".
+Added net "MISO".
+Added net "MOSI".
+Added net "SCLK".
+Added net "CS".
+
+Added component reference "C1" of component "C 100nF", package "C0603".
+Added component reference "C2" of component "C 10uF", package "C0603".
+
+Connected pin "IC1-1" to net "V".
+Connected pin "IC1-2" to net "A".
+Connected pin "IC1-3" to net "Z".
+Connected pin "IC1-4" to net "MOSI".
+Connected pin "IC1-5" to net "CS".
+Connected pin "IC1-6" to net "B".
+Connected pin "IC1-7" to net "MISO".
+Connected pin "IC1-8" to net "GND".
+Connected pin "IC1-12" to net "SCLK".
+Connected pin "IC1-9" to net "W".
+Connected pin "IC1-16" to net "V_FLASH".
+Connected pin "IC1-15" to net "U".
+Connected pin "IC1-13" to net "VDD".
+Connected pin "CONN1-1" to net "GND".
+Connected pin "CONN1-2" to net "VDD".
+Connected pin "CONN1-3" to net "VDD".
+Connected pin "CONN1-4" to net "V_FLASH".
+Connected pin "CONN1-5" to net "A".
+Connected pin "CONN1-6" to net "B".
+Connected pin "CONN1-7" to net "Z".
+Connected pin "CONN1-8" to net "U".
+Connected pin "CONN1-9" to net "V".
+Connected pin "CONN1-10" to net "W".
+Connected pin "CONN1-11" to net "MISO".
+Connected pin "CONN1-12" to net "MOSI".
+Connected pin "CONN1-13" to net "SCLK".
+Connected pin "CONN1-14" to net "CS".
+Connected pin "C1-1" to net "VDD".
+Connected pin "C1-2" to net "GND".
+Connected pin "C2-1" to net "V_FLASH".
+Connected pin "C2-2" to net "GND".
+
+
+End Of Report.
